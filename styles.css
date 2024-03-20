@@ -10,7 +10,7 @@ body {
 
 .avatar {
     width: 160px;
-    border-radius: 100px;
+    border-radius: 50%;
 }
 
 .card {
